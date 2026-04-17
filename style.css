@@ -1,16 +1,24 @@
 body {
   font-family: Arial;
-  background: #ffe6f0;
   display: flex;
   justify-content: center;
   margin-top: 50px;
 }
 
+body {
+  background-image: url("background.jpg");
+  background-size: cover;      
+  background-repeat: no-repeat;  
+  background-position: center;  
+}
 .card {
-  background: white;
-  padding: 20px;
+  background-image: url("bg-tengah.jpg");
+   background-size: cover;      
+  background-repeat: no-repeat;  
+  background-position: center;  
+  padding: 45px;
   border-radius: 15px;
-  width: 400px;
+  width: 500px;
   text-align: center;
 }
 
