@@ -49,6 +49,6 @@ button {
 
 @media (max-width: 600px){
   body {
-    background-color: lightpink;
+    background-color: rgb(255, 182, 193);
 }
 }
