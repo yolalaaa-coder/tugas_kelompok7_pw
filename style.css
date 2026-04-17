@@ -46,3 +46,14 @@ button {
   margin-top: 10px;
   font-weight: bold;
 }
+
+@media (max-width: 600px){
+  body {
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+}
+  
